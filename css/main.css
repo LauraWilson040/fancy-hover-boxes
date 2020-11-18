@@ -19,6 +19,7 @@ section {
   overflow: hidden;
   text-decoration: none;
   color: #fff;
+  margin-bottom: -.1em;
 }
 
 .hover-box h2 {
